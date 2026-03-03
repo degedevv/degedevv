@@ -1,4 +1,4 @@
-<h2 align="center">Diego Silva 💻</h2>
+<h2 align="center">Diego Freitas 💻</h2>
 
 ###
 
