@@ -17,7 +17,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi, I'm Diego 🍃<br><br>- 🌿 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br><br>- 🌲 Ex-militar do Exército Brasileiro — disciplina, resiliência e trabalho em equipe.<br><br>- 💚 Atualmente focado em desenvolvimento Backend com Java (Spring Boot, APIs REST e bancos de dados relacionais).<br><br>- ⚡ Apaixonado por resolver problemas através do código e aprender constantemente.<br><br>- 🌱 Em evolução contínua como desenvolvedor.<br><br>- 🏋️ Treino, esportes e musculação fazem parte da minha rotina.<br><br>- 🎯 Em busca de uma oportunidade como Desenvolvedor Backend Júnior.</p>
+<p data-importer="text" align="left">Hi, I'm Diego 🍃<br><br>- 🌿 Estudante de Análise e Desenvolvimento de Sistemas (ADS) e Inglês.<br><br>- 🪖 Ex-militar do Exército Brasileiro — disciplina, resiliência e trabalho em equipe.<br><br>- 💚 Atualmente focado em desenvolvimento Backend com Java (Spring Boot, APIs REST e bancos de dados relacionais).<br><br>- ⚡ Eu realmente amo a programação! É além do que um futuro trabalho.<br><br>- 🌱 Em evolução contínua como desenvolvedor.<br><br>- 🏋️ Treino, esportes e musculação depois do código.<br><br>- 🎯 Em busca de uma oportunidade como Desenvolvedor Backend Júnior.</p>
 
 ###
 
@@ -62,7 +62,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=random"  />
 </div>
 
 ###
