@@ -9,15 +9,15 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hey everyone!</h1>
+<h1 data-importer="text" align="center">Hey everyone! 🫡</h1>
 
 ###
 
-<h3 data-importer="text" align="center">👩‍💻  About Me</h3>
+<h2 data-importer="text" align="center">About Me 👇:</h2>
 
 ###
 
-<p data-importer="text" align="left">Hi, I'm Diego 👋<br><br>- 🎯 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br><br>- 🪖 Ex-militar do Exército Brasileiro - trouxe disciplina, <br>     resiliência e trabalho em equipe para minha carreira em tech<br><br>- 💻 Atualmente aprofundando em desenvolvimento backend com Java<br>     (Spring Boot, APIs REST, bancos de dados relacionais)<br><br>🔥 Apaixonado por resolver problemas com código, mesmo fora da faculdade curto resolver problemas e aprender coisas novas só pelo prazer de codar<br><br>- 🌱 Sempre estudando e evoluindo como desenvolvedor<br><br>- 🏋️ Fora do código: esportes e musculação<br><br>- 🎯 Buscando: oportunidades como desenvolvedor backend júnior</p>
+<p data-importer="text" align="left">Hi, I'm Diego 🍃<br><br>- 🌿 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br><br>- 🌲 Ex-militar do Exército Brasileiro — disciplina, resiliência e trabalho em equipe.<br><br>- 💚 Atualmente focado em desenvolvimento Backend com Java (Spring Boot, APIs REST e bancos de dados relacionais).<br><br>- ⚡ Apaixonado por resolver problemas através do código e aprender constantemente.<br><br>- 🌱 Em evolução contínua como desenvolvedor.<br><br>- 🏋️ Treino, esportes e musculação fazem parte da minha rotina.<br><br>- 🎯 Em busca de uma oportunidade como Desenvolvedor Backend Júnior.</p>
 
 ###
 
@@ -43,7 +43,11 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/degedevv/degedevv/snake-output/snake.svg" alt="Snake animation" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/degedevv/degedevv/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/degedevv/degedevv/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/degedevv/degedevv/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
 
 ###
 
@@ -58,7 +62,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
 
 ###
